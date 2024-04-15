@@ -61,7 +61,7 @@ function DateCounter() {
     });
     // setStep(Number(e.target.value));
   };
-
+  //Action creator
   const reset = function () {
     dispatch({
       type: "reset",
