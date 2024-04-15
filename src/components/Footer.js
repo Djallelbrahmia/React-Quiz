@@ -1,5 +1,3 @@
-import { Children } from "react";
-
 function Footer({ children }) {
   return <footer>{children}</footer>;
 }
